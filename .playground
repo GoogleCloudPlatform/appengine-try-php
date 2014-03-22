@@ -1,0 +1,8 @@
+{
+  "template_name": "Try Google App Engine for Go",
+  "template_description": "Starter code for a Google App Engine app in Go.",
+  "show_files": [
+    "helloworld.php",
+    "app.yaml"
+  ]
+}
