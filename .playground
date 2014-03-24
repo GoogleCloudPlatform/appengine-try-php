@@ -4,5 +4,6 @@
   "show_files": [
     "helloworld.php",
     "app.yaml"
-  ]
+  ],
+  "read_only_demo_url": "https://try-php-demo-dot-cloud-playground.appspot.com/"
 }
